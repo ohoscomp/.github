@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-仓我自己搞了一个https://github.com/ohoscomp
+OpenHarmonyOS竞赛活动
 
 <!--
 
