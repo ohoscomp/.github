@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-ohoscomp
+仓我自己搞了一个https://github.com/ohoscomp
 
 <!--
 
